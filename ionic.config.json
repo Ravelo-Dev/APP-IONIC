@@ -1,0 +1,7 @@
+{
+  "name": "App3_Ravelo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
